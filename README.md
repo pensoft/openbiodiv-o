@@ -2,7 +2,7 @@
 
 Look at the [guide](openbiodiv-ontology.Rmd) in this folder for a description of the ontology.
 
-This ontology has been published as [academic paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-017-0174-5). A backup of tha paper can be found in the [paper subdirectory](paper/s13326-017-0174-5.pdf).
+This ontology has been published as [academic paper](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-017-0174-5). A backup of the arrticle can be found in the [paper subdirectory](paper/s13326-017-0174-5.pdf).
 
 ## How to Cite
 
